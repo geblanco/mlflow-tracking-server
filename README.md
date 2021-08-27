@@ -20,7 +20,7 @@ exist).
 
 # Disclosure
 This server is unprotected and publicly available, if you need security just
-put it behind a proxy.
+put it behind a proxy (see branch proxy).
 
 # License
 MIT License
