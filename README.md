@@ -1,5 +1,6 @@
 # mlflow-tracking-server
 Docker infrastructure to deploy a MLflow tracking server with MYSQL datastore backend
+Taken from [here](https://towardsdatascience.com/deploy-mlflow-with-docker-compose-8059f16b6039)
 
 # Setup
 You need a `.env` file with the following variables:
